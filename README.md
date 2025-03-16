@@ -10,18 +10,19 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+## project - templateOutlets-topic
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+this project created to explore the capabilities of NgTemplateOutlet directive and it's usage .
+NgTemplateOutlet directives is very powerful when designing custom component with dynamic feature capabilitues
+common component design patterns will become cumbersome and hard for maintenance when piling featue sets
+and it becomes the component rendering slower , NgTemplateOut is a saviour
 
-## Running unit tests
+## Reference
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+[![YouTube](https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png)](https://www.youtube.com/watch?v=2SnVxPeJdwE&t=1143s)
 
-## Running end-to-end tests
+Angular Documentation (angular.io/api/common/NgTemplateOutlet)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+github.com/StephenCooper/ngTemplateOutlets
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+stackblitz.com/edit/ngtemplateoutletcontext
