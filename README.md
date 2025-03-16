@@ -19,8 +19,9 @@ and it becomes the component rendering slower , NgTemplateOut is a saviour
 
 ## Reference
 
-[![YouTube](https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png)](https://www.youtube.com/watch?v=2SnVxPeJdwE&t=1143s)
-
+<a href="https://www.youtube.com/watch?v=2SnVxPeJdwE&t=1143s">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="50" height="50">
+</a>
 Angular Documentation (angular.io/api/common/NgTemplateOutlet)
 
 github.com/StephenCooper/ngTemplateOutlets
